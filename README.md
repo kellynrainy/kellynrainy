@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @kellynrainy
+- 👀 I’m interested in learning operations...
+- 💞️ I’m currently learning how to dating with Ops nerd...
+- 📫 Reach me at yiwendesign.com ...
+
+<!---
+kellynrainy/kellynrainy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
